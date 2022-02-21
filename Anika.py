@@ -1,5 +1,5 @@
 from turtle  import*
-
+# creating a start shape
 shape("turtle")
 color("pink")
 for i in range(8):
