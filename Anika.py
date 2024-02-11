@@ -1,7 +1,6 @@
 from turtle  import*
-# creating a start shape
-shape("turtle")
-color("pink")
+# creating a start shape")
+color("LightPink")
 for i in range(8):
     forward(45)
     backward(45)
