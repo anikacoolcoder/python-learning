@@ -1,9 +1,3 @@
-from turtle  import*
-# creating a start shape")
-color("LightPink")
-for i in range(8):
-    forward(45)
-    backward(45)
-    left(45)
-done()
-
+print(6742*123)
+cupcakes_made=250
+print(cupcakes_made)

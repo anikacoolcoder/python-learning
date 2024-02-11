@@ -1,8 +1,7 @@
 from turtle  import*
 #ceating a home shape
-shape("arrow")
-color("blue")
-for i in range(4):
+shape("turtle")
+color pink") range(4):
     forward(140)
     right(90)
 left(45)
